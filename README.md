@@ -25,5 +25,9 @@
 ## 付録
 ・実装コード
 
-https://github.com/tusmasoma/campsitemap
+https://github.com/tusmasoma/campsitemap/blob/master/static/js/googlemap.js
+
+・CampFinderについて
+
+https://github.com/tusmasoma/campsitemap/blob/master/README.md
 
